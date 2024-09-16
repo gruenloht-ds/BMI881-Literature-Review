@@ -1,4 +1,4 @@
 # BMI881-Literature-Review
 Literature review course UW Madison [BMI 881](https://kbroman.org/BMI881/)
 
-Most recent literature review (Gelman2002): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/turning_tables_into_graphs-gelman-2002.docx)
+Most recent literature review (Gelman, 1854): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/on_the_mode_of_communication_of_cholera-snow-1854.docx)
