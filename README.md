@@ -1,4 +1,4 @@
 # BMI881-Literature-Review
 Literature review course UW Madison [BMI 881](https://kbroman.org/BMI881/)
 
-Most recent literature review (Snow, 1854 part 2): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/on_the_mode_of_communication_of_cholera-snow-1854-part2.docx)
+Most recent literature review (Lipid Research Clinic, 1984): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/the_lipid_research_clinics_coronary_primary_prevention_trial_results_part1-1984.docx)
