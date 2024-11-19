@@ -1,7 +1,7 @@
 # BMI881-Literature-Review
 Literature review course UW Madison [BMI 881](https://kbroman.org/BMI881/)
 
-Most recent literature review (Donoho, 2015): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/50-years-of-data-science-Donoho-2015.docx)
+Most recent literature review (Benjamini, 1994): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/benjamini-hochberg-1994.docx)
 
 ---
 
