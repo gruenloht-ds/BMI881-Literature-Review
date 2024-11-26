@@ -12,4 +12,4 @@ Most recent literature review (Freedman, 1984): [link](https://github.com/gruenl
 [Code](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/homework1-BMI881.R)
 
 
-[Homework 2]() (Still need to upload)
+[Homework 2](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/Homework2.pdf)
