@@ -1,7 +1,7 @@
 # BMI881-Literature-Review
 Literature review course UW Madison [BMI 881](https://kbroman.org/BMI881/)
 
-Most recent literature review (GSEA, 2003,2005): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/gsea-2003.docx)
+Most recent literature review (Leek, 2010): [link](https://github.com/gruenloht-ds/BMI881-Literature-Review/blob/main/leek-batch-effects-2010.docx)
 
 ---
 
